@@ -1,0 +1,91 @@
+#title {
+    display: flex;
+    justify-content: center;
+    font-size:x-large;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    line-height: 0%;
+    font-size: small;
+    font-weight:lighter;
+}
+#kingsley img {
+    display: flex;
+    justify-content: center;
+}
+#supercharge{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: 600;
+}
+#boost{
+    display: flex;
+    justify-content: center;
+    line-height: 0%;
+    font-size: small;
+    font-weight: lighter;
+}
+.container1{
+    display: flex;
+    justify-content:space-around;
+}
+.container2{
+    display: flex;
+justify-content: space-around;
+}
+#create{
+    font-size: larger;
+    font-weight: 550;
+    display: flex;
+    justify-content: center;
+}
+#plain{
+    font-size: large;
+    font-weight: 550;
+    display: flex;
+    justify-content: center;
+}
+#sneak{
+    font-size: large;
+    font-weight: 550;
+    display: flex;
+    justify-content: center;
+}
+#ensure{
+    font-size: small;
+    font-weight: lighter;
+}
+#remove{
+    font-size: small;
+    font-weight: lighter;
+}
+#quick{
+    font-size: small;
+    font-weight: lighter;
+}
+#way{
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    line-height: 0%;
+}
+#for{
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    line-height: 0%;
+}
+#easy{
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    line-height: 0%;
+}
+#sources{
+    font-size: small;
+    display: flex;
+    justify-content: center;
+}
